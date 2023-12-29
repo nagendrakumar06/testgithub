@@ -1,6 +1,7 @@
 def generate_fibonacci(n):
     # Adding comment 
-    # Adding 2nd comment
+    # REmoved a few comments and added a few
+
     fib_series = [0, 1]
     print(fib_series)
 
