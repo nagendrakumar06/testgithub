@@ -1,6 +1,7 @@
 def generate_fibonacci(n):
     # Adding comment 
     # REmoved a few comments and added a few
+    # Added additional comments
 
     fib_series = [0, 1]
     print(fib_series)
@@ -14,3 +15,6 @@ def generate_fibonacci(n):
 n = 10
 fibonacci_series = generate_fibonacci(n)
 print(f"Fibonacci Series (first {n} numbers): {fibonacci_series}")
+
+def dummy_function():
+    print("It is a dummy funtion.")
