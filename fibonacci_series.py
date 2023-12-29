@@ -1,5 +1,9 @@
 def generate_fibonacci(n):
+    # Adding comment 
+    # REmoved a few comments and added a few
+
     fib_series = [0, 1]
+    print(fib_series)
 
     while len(fib_series) < n:
         fib_series.append(fib_series[-1] + fib_series[-2])
